@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>/index/branchindex.jsp</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<h1>지점 인덱스</h1>
-	<p>추가합니다.</p>
-	<p>추가 테스트</p>
+
 </body>
 </html>
