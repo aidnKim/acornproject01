@@ -7,6 +7,7 @@
 <title>/users/loginform.jsp</title>
 </head>
 <body>
+<!-- 박종복 푸쉬 실험 -->
 	<a href="${pageContext.request.contextPath }/index/headquaterindex.jsp">본사 페이지</a>
 	<a href="${pageContext.request.contextPath }/index/branchindex.jsp">지점 페이지</a>
 </body>
