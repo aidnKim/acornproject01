@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1>종복치킨</h1>
+	<p>ddd</p>
 	<a href="${pageContext.request.contextPath }/user/signup-form.jsp">회원가입</a>
 	<a href="${pageContext.request.contextPath }/user/loginform.jsp">로그인</a>
 </body>
