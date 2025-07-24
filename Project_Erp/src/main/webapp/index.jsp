@@ -11,7 +11,8 @@
 	<p>박준일 push 테스트</p>
 	<a href="${pageContext.request.contextPath }/user/signup-form.jsp">회원가입</a>
 	<a href="${pageContext.request.contextPath }/user/loginform.jsp">로그인</a>
-	<!-- 김현수 푸쉬 실험 -->
+	<!-- 주석 --> 
+	<!-- 조요한 주석 테스트 -->
 </body>
 
 </html>
